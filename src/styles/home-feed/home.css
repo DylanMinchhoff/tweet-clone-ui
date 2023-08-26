@@ -1,0 +1,13 @@
+
+.main-container {
+    display: grid;
+    grid-template-columns: 10% 90%;
+}
+
+.left-navigation-menu {
+
+}
+
+.feed-menu {
+
+}
